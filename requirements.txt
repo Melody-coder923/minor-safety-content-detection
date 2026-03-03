@@ -1,0 +1,6 @@
+transformers>=4.30.0
+datasets
+torch>=2.0.0
+scikit-learn
+pandas
+anthropic
